@@ -1,0 +1,3 @@
+group,replicate,fastq_1,fastq_2,antibody,control
+Gli3FLAG,1,/Volumes/LaCie/InstitutNeuroMyoGene_DATA/autre_data_caroline/Chipseq/GSE52939/SRR1041910.fastq.gz,,AB,Mock_FLAG_ChIP
+Mock_FLAG_ChIP,1,/Volumes/LaCie/InstitutNeuroMyoGene_DATA/autre_data_caroline/Chipseq/GSE52939/SRR1041911.fastq.gz,,,
