@@ -1,0 +1,7 @@
+	ContrastBy	Condition1	Condition2
+Contrast1	grp	WT_QSC	MDX_QSC
+Contrast2	grp	WT_ASC	MDX_ASC
+Contrast3	grp	WT_MYOB	MDX_MYOB
+Contrast4	grp	WT_DM	MDX_DM
+Contrast5	grp	WT_ASC	WT_MYOB
+Contrast6	grp	MDX_ASC	MDX_MYOB
